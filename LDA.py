@@ -13,7 +13,7 @@ grid=[10,11,12,13,15,16,17,19,20,22,25,30]
 pa=150
 
 
-optimize=False
+optimize=True
 
 if optimize==False:  #To set topics/passes manually 1. change  optimize=False(line 16) 2. set values below
     pa = 80
