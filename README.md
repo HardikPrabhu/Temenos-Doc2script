@@ -7,3 +7,4 @@ Instructions:
 4.Install python modules  i.gensim  ii.bs4  iii. install the NLTK module, then download the WordNet package using command >>> nltk.download('wordnet')
 5. Run the "Doc2script.py" script.
 
+For Project details read Doc2script.pdf
